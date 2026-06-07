@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Focus outer glowing ring -->
+    <path
+        android:pathData="M54,18 A36,36 0 1,1 53.99,18"
+        android:strokeColor="#00E5CC"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.3"
+        android:fillColor="#00000000" />
+        
+    <path
+        android:pathData="M54,22 A32,32 0 1,1 53.99,22"
+        android:strokeColor="#00E5CC"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Hourglass Frame in premium White -->
+    <path
+        android:pathData="M44,36h20"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"/>
+        
+    <path
+        android:pathData="M44,72h20"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"/>
+
+    <!-- Glass bulb curve -->
+    <path
+        android:pathData="M46,36 C46,47 50,54 54,54 C58,54 62,47 62,36 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round"
+        android:fillColor="#1500E5CC" />
+        
+    <path
+        android:pathData="M46,72 C46,61 50,54 54,54 C58,54 62,61 62,72 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round"
+        android:fillColor="#1500E5CC" />
+
+    <!-- Electric Teal sand trickle and sand pile -->
+    <path
+        android:pathData="M54,51v16"
+        android:strokeColor="#00E5CC"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+        
+    <path
+        android:pathData="M49,70c1,-4 9,-4 10,0z"
+        android:fillColor="#00E5CC" />
+        
+    <path
+        android:pathData="M51,44c1,2 5,2 6,0z"
+        android:fillColor="#00E5CC" />
+
+</vector>

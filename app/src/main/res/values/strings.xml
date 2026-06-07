@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BePresent</string>
+    <string name="accessibility_description">Enables auto-blocking of distracting apps like Instagram, TikTok, and YouTube during active focus sessions.</string>
+</resources>
